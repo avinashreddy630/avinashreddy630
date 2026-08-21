@@ -116,14 +116,14 @@ I'm a final-year B.Tech student who loves shipping real, working software — no
 <!-- Swap these placeholders for your actual repos -->
 <p align="center">
   <a href="https://github.com/avinashreddy630/REPO_NAME_1">
-    <img height="165em" src="https://github-readme-stats.shion.dev/api/pin/?username=avinashreddy630&repo=REPO_NAME_1&theme=merko&hide_border=false" />
+    <img height="165em" src="https://github-readme-stats.shion.dev/api/pin/?username=avinashreddy630&repo=PaperLens-AI&theme=merko&hide_border=false" />
   </a>
   <a href="https://github.com/avinashreddy630/REPO_NAME_2">
-    <img height="165em" src="https://github-readme-stats.shion.dev/api/pin/?username=avinashreddy630&repo=REPO_NAME_2&theme=merko&hide_border=false" />
+    <img height="165em" src="https://github-readme-stats.shion.dev/api/pin/?username=avinashreddy630&repo=Mediflow-AI&theme=merko&hide_border=false" />
   </a>
 </p>
 
-> 💡 Replace `REPO_NAME_1` / `REPO_NAME_2` with your actual repository names to pin your best work here.
+
 
 ---
 
